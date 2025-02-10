@@ -9,6 +9,7 @@ Print these patterns using loops:
     * * * * *
     * * * * *
 
+[Square Pattern](src/com/patterns/RightTrianglePattern.java)
 
 2.  *
     **
