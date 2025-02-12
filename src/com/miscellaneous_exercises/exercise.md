@@ -1,5 +1,7 @@
 
-# Java Exercises for Beginners
+# 1. Easy Java Exercises for Beginners
+
+
 
 1. **Hello World**
     - Write a program that prints "Hello, World!" to the console.
@@ -23,9 +25,23 @@
 
 
 
+# 2. Medium Java Exercises for Beginners
+
+1. **Fibonacci Series In Java Programs**
+   - Description: The Fibonacci Series is a sequence of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The sequence typically goes: 0, 1, 1, 2, 3, 5, 8, 13, and so on.
 
 
 
 
 
+# 3. Hard Java Exercises for Beginners
+
+1. **Check Armstrong Number**
+   - Description: Write a Java program that checks if a given number is an Armstrong number. An Armstrong number (also known as a Narcissistic number or a pluperfect number) is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
+     - Input: 9474 
+     - Output: 9474 is an Armstrong number 
+     - Input: 153 
+     - Output: 153 is an Armstrong number 
+     - Input: 1234
+     - Output: 1234 is not an Armstrong number
 
