@@ -16,4 +16,16 @@
 5. **Find Maximum Number**
     - Write a program that takes three numbers as input and prints the largest number.
 
-    
+5. **Calculate the Total Sum of an Array**
+   - Description: Write a program in Java that takes an array of integers as input and calculates the sum of its elements.
+   - Input: int[] arr = { 3, 4, 5, 5, 6 };
+   - Output: Sum of the array elements is: ?
+
+
+
+
+
+
+
+
+
